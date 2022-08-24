@@ -36,18 +36,6 @@ Create Nodejs API Keys to be used in other applications
 
 and so on.
 
-# Generate and Manage API Keys
-
-Create Nodejs API Keys to be used in other applications
-
-# Generate and Manage API Keys
-
-Create Nodejs API Keys to be used in other applications
-
-# Generate and Manage API Keys
-
-Create Nodejs API Keys to be used in other applications
-
 ## Authors
 
 - [@inayatu](https://www.github.com/inayatu)
